@@ -2,24 +2,24 @@ import React, { useState } from 'react';
 
 const dealsData = {
   FLIGHT: [
-    { img: '/src/assets/hotdealflightimg1.png', },
-    { img: '/src/assets/hotdealflightimg2.png', },
-    { img: '/src/assets/hotdealflightimg3.png',  },
+    { img: '/hotdealflightimg1.png', },
+    { img: '/hotdealflightimg2.png', },
+    { img: '/hotdealflightimg3.png',  },
   ],
   'GROUP FARE': [
-    { img: '/src/assets/hotdealgroupfareimg1.png', text: 'Group Fare to Malaysia' },
-    { img: '/src/assets/hotdealgroupfareimg2.png', text: 'Special Group for Dubai' },
-    { img: '/src/assets/hotdealgroupfareimg3.png', text: 'Save More on Bulk Booking' },
+    { img: '/hotdealgroupfareimg1.png', text: 'Group Fare to Malaysia' },
+    { img: '/hotdealgroupfareimg2.png', text: 'Special Group for Dubai' },
+    { img: '/hotdealgroupfareimg3.png', text: 'Save More on Bulk Booking' },
   ],
   TOUR: [
-    { img: '/src/assets/hotdealtourimg1.png', text: 'Explore Cox’s Bazar' },
-    { img: '/src/assets/hotdealtourimg2.png', text: 'Nepal Tour Packages' },
-    { img: '/src/assets/hotdealtourimg3.png', text: 'Adventure in Thailand' },
+    { img: '/hotdealtourimg1.png', text: 'Explore Cox’s Bazar' },
+    { img: '/hotdealtourimg2.png', text: 'Nepal Tour Packages' },
+    { img: '/hotdealtourimg3.png', text: 'Adventure in Thailand' },
   ],
   VISA: [
-    { img: '/src/assets/hotdealvisaimg1.png', text: 'Get Dubai Visa Easily' },
-    { img: '/src/assets/hotdealvisaimg2.png', text: 'Malaysia Visa Assistance' },
-    { img: '/src/assets/hotdealvisaimg3.png', text: 'Quick Schengen Visa' },
+    { img: '/hotdealvisaimg1.png', text: 'Get Dubai Visa Easily' },
+    { img: '/hotdealvisaimg2.png', text: 'Malaysia Visa Assistance' },
+    { img: '/hotdealvisaimg3.png', text: 'Quick Schengen Visa' },
   ]
 };
 

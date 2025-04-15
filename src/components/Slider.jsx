@@ -4,11 +4,11 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 const visaSlides = [
-  "/src/assets/sliderimg1.png",
-  "/src/assets/sliderimg2.png",
-  "/src/assets/sliderimg3.png",
-  "/src/assets/sliderimg4.png",
-  "/src/assets/sliderimg5.png",
+  "/sliderimg1.png",
+  "/sliderimg2.png",
+  "/sliderimg3.png",
+  "/sliderimg4.png",
+  "/sliderimg5.png",
  
 ];
 

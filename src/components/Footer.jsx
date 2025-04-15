@@ -42,11 +42,11 @@ const Footer = () => {
         <div>
           <h3 className="text-lg font-semibold mb-4">Certification</h3>
           <div className="flex flex-wrap gap-2">
-            <img src="/src/assets/download (4).png" alt="cert1" className="h-10" />
-            <img src="/src/assets/download (3).png" alt="cert2" className="h-10" />
-            <img src="/src/assets/download (1).png" alt="cert4" className="h-10" />
-            <img src="/src/assets/download.png" alt="cert3" className="h-10" />
-            <img src="/src/assets/download (2).png" alt="cert3" className="h-10" />
+            <img src="/download (4).png" alt="cert1" className="h-10" />
+            <img src="/download (3).png" alt="cert2" className="h-10" />
+            <img src="/download (1).png" alt="cert4" className="h-10" />
+            <img src="/download.png" alt="cert3" className="h-10" />
+            <img src="/download (2).png" alt="cert3" className="h-10" />
           </div>
         </div>
 
@@ -85,7 +85,7 @@ const Footer = () => {
         
         <div className="w-[800px] h-[70px] mx-auto ">
           {/* Add logos here */}
-          <img src="/src/assets/paymentgetwayimg.png" alt="visa" className=" w-full h-full" />
+          <img src="/paymentgetwayimg.png" alt="visa" className=" w-full h-full" />
 
         </div>
       </div>

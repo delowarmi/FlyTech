@@ -348,7 +348,7 @@ export default function Banner() {
   return (
     <div
       className="rounded-xl p-6 bg-cover bg-center"
-      style={{ backgroundImage: "url('/src/assets/mainbannerimg.png')" }}
+      style={{ backgroundImage: "url('/mainbannerimg.png')" }}
     >
       {/* Tabs */}
       <div className="flex justify-between space-x-4 mb-6 py-2 px-2 bg-white rounded-full w-[40%] mx-auto">
